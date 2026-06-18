@@ -1,0 +1,2 @@
+# salvevendite-website
+SalveVendite veebileht
